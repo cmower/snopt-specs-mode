@@ -1,2 +1,2 @@
 # snopt-specs-mode
-A (very) simple Emacs major mode for SNOPT SPECS files.
+A (very) simple Emacs major mode for editing SNOPT SPECS files.
